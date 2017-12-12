@@ -12,7 +12,7 @@ A small github repo used as an example for the coding workshop!
 -----------
 
 To use this framework you will need to:
-
+test
 
 1. Replace my email (anaismoller@gmail.com) with your own.
 2. Replace all instances of anaismoller & anaismoller, with your own username (case insensitive replace).
